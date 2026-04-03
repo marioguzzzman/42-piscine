@@ -1,0 +1,7 @@
+Level: C10
+Exercise: ex01
+Project: cat
+Turn-in directory: ex01/
+Files to turn in: ft_cat + Makefile
+Description: Reproduce cat command
+Testing elements: ./ft_cat files

@@ -1,0 +1,7 @@
+Level: Shell01
+Exercise: ex07
+Project: rdwssap.sh
+turn-in directory ex07
+Prototype: rdwssap.sh
+Description: Command line processes /etc/passwd: remove comments, every other line from 2nd, reverse login, sort reverse alpha, between FT_LINE1 and FT_LINE2, comma separated, end with ..
+Testing elements: Example given.

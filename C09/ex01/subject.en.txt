@@ -1,0 +1,7 @@
+Level: C09
+Exercise: ex01
+Project: Makefile
+Turn-in directory: ex01/
+Files to turn in: Makefile
+Description: Makefile for libft.a with all/clean/fclean/re
+Testing elements: make rules

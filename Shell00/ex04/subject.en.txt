@@ -1,0 +1,7 @@
+Level: Shell00
+Exercise: ex04
+Project: midLS
+turn-in directory ex04
+Prototype: midLS
+Description: Command line that lists files/directories except hidden or .*-starting, comma separated by modification date, directories with / suffix.
+Testing elements: RTFM!

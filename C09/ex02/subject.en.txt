@@ -1,0 +1,7 @@
+Level: C09
+Exercise: ex02
+Project: ft_split
+Turn-in directory: ex02/
+Files to turn in: ft_split.c
+Description: Split string by charset, NULL-terminated array
+Testing elements: Standard split tests

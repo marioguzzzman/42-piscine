@@ -1,0 +1,7 @@
+Level: Shell01
+Exercise: ex06
+Project: skip.sh
+turn-in directory ex06
+Prototype: skip.sh
+Description: Command line that displays every other line from ls -l starting from first.
+Testing elements: No explicit example.

@@ -1,0 +1,7 @@
+Level: Shell00
+Exercise: ex05
+Project: git_commit.sh
+turn-in directory ex05
+Prototype: git_commit.sh
+Description: Shell script that displays IDs of last 5 git commits.
+Testing elements: Test with cat -e.

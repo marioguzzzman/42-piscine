@@ -1,0 +1,7 @@
+Level: Shell01
+Exercise: ex01
+Project: printgroups.sh
+turn-in directory ex01
+Prototype: printgroups.sh
+Description: Command line that displays groups for $FT_USER login, comma separated no spaces.
+Testing elements: Example: god,root,admin,...

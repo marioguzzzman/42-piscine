@@ -1,0 +1,7 @@
+Level: Shell01
+Exercise: ex08
+Project: addchelou.sh
+turn-in directory ex08
+Prototype: addchelou.sh
+Description: Command line adds FT_NBR1 (?NBR2 base) + FT_NBR2 (mrdoc base), displays sum in taioLuSnemf base.
+Testing elements: Examples given with expected output.

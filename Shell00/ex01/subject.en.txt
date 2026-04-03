@@ -1,0 +1,7 @@
+Level: Shell00
+Exercise: ex01
+Project: testShell00
+turn-in directory ex01
+Prototype: testShell00.tar
+Description: Create testShell00 with ls -l output showing total 1, -r--r-xr-x permissions.
+Testing elements: Tar the file for submission.

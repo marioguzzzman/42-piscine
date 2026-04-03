@@ -1,0 +1,7 @@
+Level: Shell00
+Exercise: ex08
+Project: clean
+turn-in directory ex08
+Prototype: clean
+Description: Command line that finds and deletes files ending with ~ or starting/ending with # using find.
+Testing elements: Only one command allowed.

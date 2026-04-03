@@ -1,0 +1,7 @@
+Level: Shell00
+Exercise: ex09
+Project: ftmagic
+turn-in directory ex09
+Prototype: ftmagic
+Description: Magic file that detects 42 filetype (42 string at 42nd byte) using file command.
+Testing elements: man file.

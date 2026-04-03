@@ -1,0 +1,7 @@
+Level: C11
+Exercise: ex00
+Project: ft_foreach
+Turn-in directory: ex00/
+Files to turn in: ft_foreach.c
+Description: Apply function to array elements
+Testing elements: Standard tests

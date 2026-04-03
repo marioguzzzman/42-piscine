@@ -1,0 +1,7 @@
+Level: C10
+Exercise: ex02
+Project: tail
+Turn-in directory: ex02/
+Files to turn in: ft_tail + Makefile
+Description: tail -c N
+Testing elements: ./ft_tail -c 10 file

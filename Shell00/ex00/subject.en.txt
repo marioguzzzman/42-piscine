@@ -1,0 +1,7 @@
+Level: Shell00
+Exercise: ex00
+Project: Z
+turn-in directory ex00
+Prototype: z
+Description: Create a file called z that returns Z followed by a newline when cat z is used.
+Testing elements: Example: cat z → Z.

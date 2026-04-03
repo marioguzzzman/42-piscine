@@ -1,0 +1,7 @@
+Level: Shell00
+Exercise: ex06
+Project: gitignore.sh
+turn-in directory ex06
+Prototype: gitignore.sh
+Description: Shell script that lists files ignored by git.
+Testing elements: Example: .DS_Store, mywork.c.

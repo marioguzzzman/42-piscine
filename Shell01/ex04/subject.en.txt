@@ -1,0 +1,7 @@
+Level: Shell01
+Exercise: ex04
+Project: MAC.sh
+turn-in directory ex04
+Prototype: MAC.sh
+Description: Command line that displays machine MAC addresses, one per line.
+Testing elements: man ifconfig.

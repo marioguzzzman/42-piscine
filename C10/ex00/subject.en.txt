@@ -1,0 +1,7 @@
+Level: C10
+Exercise: ex00
+Project: display_file
+Turn-in directory: ex00/
+Files to turn in: ft_display_file + Makefile
+Description: Display file content, handle errors
+Testing elements: ./ft_display_file file

@@ -1,0 +1,7 @@
+Level: Shell00
+Exercise: ex07
+Project: di
+turn-in directory ex07
+Prototype: b
+Description: Create file b with STAR WARS Episode IV text, shown by diff a b.
+Testing elements: No explicit example output shown.

@@ -1,0 +1,7 @@
+Level: C10
+Exercise: ex03
+Project: hexdump
+Turn-in directory: ex03/
+Files to turn in: ft_hexdump + Makefile
+Description: hexdump -C
+Testing elements: ./ft_hexdump -C file

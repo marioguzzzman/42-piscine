@@ -1,0 +1,7 @@
+Level: Shell01
+Exercise: ex00
+Project: Exam
+turn-in directory ex00
+Prototype: None
+Description: Sign up for Friday exam and register for Exam00 project. Both event AND project required.
+Testing elements: No file to submit.

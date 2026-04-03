@@ -1,0 +1,7 @@
+Level: C09
+Exercise: ex00
+Project: libft
+Turn-in directory: ex00/
+Files to turn in: libft_creator.sh + .c files
+Description: Create libft.a library with 5 functions
+Testing elements: sh libft_creator.sh

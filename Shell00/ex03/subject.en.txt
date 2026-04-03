@@ -1,0 +1,7 @@
+Level: Shell00
+Exercise: ex03
+Project: id_rsa.pub
+turn-in directory ex03
+Prototype: id_rsa.pub
+Description: Create your own SSH key and add public key to repository.
+Testing elements: No explicit example output shown.

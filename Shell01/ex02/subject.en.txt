@@ -1,0 +1,7 @@
+Level: Shell01
+Exercise: ex02
+Project: find.sh.sh
+turn-in directory ex02
+Prototype: findsh.sh
+Description: Command line that finds .sh files in current and subdirectories, displays names without .sh.
+Testing elements: Example: file1 file2 file3.

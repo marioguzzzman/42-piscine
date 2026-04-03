@@ -1,0 +1,7 @@
+Level: Shell01
+Exercise: ex05
+Project: ?MaRViN?
+turn-in directory ex05
+Prototype: ?MaRViN?
+Description: Create file containing only 42, nothing else. Name: ?MaRViN?
+Testing elements: Permissions and size match example.

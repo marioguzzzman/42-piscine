@@ -1,0 +1,7 @@
+Level: Shell00
+Exercise: ex02
+Project: ex02.tar
+turn-in directory ex02
+Prototype: ex02.tar
+Description: Create specific files/directories with exact ls -l output matching the subject example.
+Testing elements: Tar for submission.

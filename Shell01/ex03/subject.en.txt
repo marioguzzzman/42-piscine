@@ -1,0 +1,7 @@
+Level: Shell01
+Exercise: ex03
+Project: countfiles.sh
+turn-in directory ex03
+Prototype: countfiles.sh
+Description: Command line that counts regular files and directories including .
+Testing elements: Example output: 42.
