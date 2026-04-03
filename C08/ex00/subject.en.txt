@@ -1,0 +1,7 @@
+Level: C08
+Exercise: ex00
+Project: ft.h
+turn-in directory ex00
+Prototype: ft.h
+Description: Create ft.h with prototypes for all previous functions: ft_putchr, ft_swap, ft_putstr, ft_strlen, ft_strcmp.
+Testing elements: No explicit example output shown in the subject text.

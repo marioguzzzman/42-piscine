@@ -1,0 +1,7 @@
+Level: C08
+Exercise: ex01
+Project: ft_boolean.h
+turn-in directory ex01
+Prototype: ft_boolean.h
+Description: Create ft_boolean.h with TRUE, FALSE, EVEN, ODD macros and boolean function tests.
+Testing elements: Program tests ft_is_even(argc-1) and prints EVEN_MSG or ODD_MSG.

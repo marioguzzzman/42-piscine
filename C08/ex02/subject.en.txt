@@ -1,0 +1,7 @@
+Level: C08
+Exercise: ex02
+Project: ft_abs.h
+turn-in directory ex02
+Prototype: ft_abs.h
+Description: Create ABS macro that replaces its argument with its absolute value.
+Testing elements: No explicit example output shown in the subject text.

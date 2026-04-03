@@ -1,0 +1,7 @@
+Level: C08
+Exercise: ex03
+Project: ft_point.h
+turn-in directory ex03
+Prototype: ft_point.h
+Description: Create ft_point.h with t_point struct and setpoint function.
+Testing elements: set_point(&point, 42, 21) sets point.x=42 and point.y=21.

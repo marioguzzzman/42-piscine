@@ -1,0 +1,7 @@
+Level: C08
+Exercise: ex04
+Project: ft_strs_to_tab
+turn-in directory ex04
+Prototype: t_stock_str *ft_strs_to_tab(int ac, char **av);
+Description: Transform argv strings into t_stock_str array. Last element str=NULL. Return NULL on error.
+Testing elements: No explicit example output shown in the subject text.

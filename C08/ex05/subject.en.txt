@@ -1,0 +1,7 @@
+Level: C08
+Exercise: ex05
+Project: ft_show_tab
+turn-in directory ex05
+Prototype: void ft_show_tab(struct s_stock_str *par);
+Description: Display each element: string, size, copy. Uses ft_strs_to_tab from previous exercise.
+Testing elements: No explicit example output shown in the subject text.
