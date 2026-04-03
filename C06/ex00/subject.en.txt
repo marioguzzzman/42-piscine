@@ -1,0 +1,7 @@
+Level: C06
+Exercise: ex00
+Project: ft_print_program_name
+turn-in directory ex00
+Prototype: void ft_print_program_name(int argc, char **argv);
+Description: Display the program name followed by a newline.
+Testing elements: Example: ./a.out → ./a.out

@@ -1,0 +1,7 @@
+Level: C07
+Exercise: ex01
+Project: ft_range
+turn-in directory ex01
+Prototype: int *ft_range(int min, int max);
+Description: Return an array containing all values between min (included) and max (excluded). Return NULL if min >= max.
+Testing elements: No explicit example output shown in the subject text.

@@ -1,0 +1,7 @@
+Level: C01
+Exercise: ex03
+Project: ft_div_mod
+turn-in directory ex03
+Prototype: void ft_div_mod(int a, int b, int *div, int *mod);
+Description: Divides a by b, stores result in *div, remainder in *mod.
+Testing elements: No explicit example output shown.

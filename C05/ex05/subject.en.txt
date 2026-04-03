@@ -1,0 +1,7 @@
+Level: C05
+Exercise: ex05
+Project: ft_sqrt
+turn-in directory ex05
+Prototype: int ft_sqrt(int nb);
+Description: Return the square root of a given number if it exists, otherwise 0.
+Testing elements: No explicit example output shown in the subject text.

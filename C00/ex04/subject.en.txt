@@ -1,0 +1,7 @@
+Level: C00
+Exercise: ex04
+Project: ft_is_negative
+turn-in directory ex04
+Prototype: void ft_is_negative(int n);
+Description: Display N if negative, P if positive or null.
+Testing elements: No explicit example output shown.

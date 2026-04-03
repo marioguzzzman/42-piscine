@@ -1,0 +1,7 @@
+Level: C07
+Exercise: ex00
+Project: ft_strdup
+turn-in directory ex00
+Prototype: char *ft_strdup(char *src);
+Description: Reproduce strdup.
+Testing elements: No explicit example output shown in the subject text.

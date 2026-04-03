@@ -1,0 +1,7 @@
+Level: C00
+Exercise: ex01
+Project: ft_print_alphabet
+turn-in directory ex01
+Prototype: void ft_print_alphabet(void);
+Description: Display the alphabet in lowercase on a single line, ascending order from a.
+Testing elements: No explicit example output shown.

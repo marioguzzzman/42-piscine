@@ -1,0 +1,7 @@
+Level: C06
+Exercise: ex03
+Project: ft_sort_params
+turn-in directory ex03
+Prototype: void ft_sort_params(int argc, char **argv);
+Description: Display each given argument on a new line sorted in ASCII order, excluding argv[0].
+Testing elements: No explicit example output shown in the subject text.

@@ -1,0 +1,7 @@
+Level: C04
+Exercise: ex01
+Project: ft_putstr
+turn-in directory ex01
+Prototype: void ft_putstr(char *str);
+Description: Print a string to standard output.
+Testing elements: No explicit example output shown in the subject text.

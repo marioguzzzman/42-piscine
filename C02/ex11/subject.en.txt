@@ -1,0 +1,8 @@
+Level: C02
+Exercise: ex11
+Project: ft_putstr_non_printable
+turn-in directory ex11
+Prototype: void ft_putstr_non_printable(char *str);
+Description: Display non-printable characters as lowercase hexadecimal values preceded by a backslash.
+Testing elements: Example: Hello
+How are you? → Hello\0aHow are you?

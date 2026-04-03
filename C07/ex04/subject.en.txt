@@ -1,0 +1,7 @@
+Level: C07
+Exercise: ex04
+Project: ft_convert_base
+turn-in directory ex04
+Prototype: char *ft_convert_base(char *nbr, char *base_from, char *base_to);
+Description: Convert nbr from base_from to base_to. nbr follows ft_atoi_base rules. Return NULL for invalid base. Prefix with single - if negative.
+Testing elements: No explicit example output shown in the subject text.

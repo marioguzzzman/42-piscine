@@ -1,0 +1,7 @@
+Level: C05
+Exercise: ex04
+Project: ft_fibonacci
+turn-in directory ex04
+Prototype: int ft_fibonacci(int index);
+Description: Return the nth Fibonacci number recursively. Index < 0 returns -1.
+Testing elements: Sequence starts 0, 1, 1, 2.

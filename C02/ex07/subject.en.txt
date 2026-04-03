@@ -1,0 +1,7 @@
+Level: C02
+Exercise: ex07
+Project: ft_strupcase
+turn-in directory ex07
+Prototype: char *ft_strupcase(char *str);
+Description: Convert every letter to uppercase and return the string.
+Testing elements: No explicit example output shown in the subject text.

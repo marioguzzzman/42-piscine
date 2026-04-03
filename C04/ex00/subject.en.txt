@@ -1,0 +1,7 @@
+Level: C04
+Exercise: ex00
+Project: ft_strlen
+turn-in directory ex00
+Prototype: int ft_strlen(char *str);
+Description: Return the number of characters in a string.
+Testing elements: No explicit example output shown in the subject text.

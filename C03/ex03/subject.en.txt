@@ -1,0 +1,7 @@
+Level: C03
+Exercise: ex03
+Project: ft_strncat
+turn-in directory ex03
+Prototype: char *ft_strncat(char *dest, char *src, unsigned int nb);
+Description: Reproduce strncat.
+Testing elements: No explicit example output shown in the subject text.

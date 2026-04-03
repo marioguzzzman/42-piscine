@@ -1,0 +1,7 @@
+Level: C06
+Exercise: ex02
+Project: ft_rev_params
+turn-in directory ex02
+Prototype: void ft_rev_params(int argc, char **argv);
+Description: Display each given argument on a new line in reverse order, excluding argv[0].
+Testing elements: No explicit example output shown in the subject text.

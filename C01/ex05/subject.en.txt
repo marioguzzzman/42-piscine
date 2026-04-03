@@ -1,0 +1,7 @@
+Level: C01
+Exercise: ex05
+Project: ft_putstr
+turn-in directory ex05
+Prototype: void ft_putstr(char *str);
+Description: Displays a string of characters on standard output.
+Testing elements: Allowed: write.

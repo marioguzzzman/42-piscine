@@ -1,0 +1,7 @@
+Level: C04
+Exercise: ex02
+Project: ft_putnbr
+turn-in directory ex02
+Prototype: void ft_putnbr(int nb);
+Description: Display the given int, handling all possible int values.
+Testing elements: Example: ft_putnbr(42) outputs 42.

@@ -1,0 +1,7 @@
+Level: C07
+Exercise: ex05
+Project: ft_split
+turn-in directory ex05
+Prototype: char **ft_split(char *str, char *charset);
+Description: Split str using each character from charset as separator. Last element is NULL. No empty strings in the array.
+Testing elements: No explicit example output shown in the subject text.

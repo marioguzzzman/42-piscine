@@ -1,0 +1,9 @@
+Level: C06
+Exercise: ex01
+Project: ft_print_params
+turn-in directory ex01
+Prototype: void ft_print_params(int argc, char **argv);
+Description: Display each given argument on a new line, excluding argv[0].
+Testing elements: Example: ./a.out test1 test2 test3 → test1
+test2
+test3

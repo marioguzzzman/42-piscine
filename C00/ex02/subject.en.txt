@@ -1,0 +1,7 @@
+Level: C00
+Exercise: ex02
+Project: ft_print_reverse_alphabet
+turn-in directory ex02
+Prototype: void ft_print_reverse_alphabet(void);
+Description: Display the alphabet in lowercase on a single line, descending order from z.
+Testing elements: No explicit example output shown.

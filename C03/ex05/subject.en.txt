@@ -1,0 +1,7 @@
+Level: C03
+Exercise: ex05
+Project: ft_strlcat
+turn-in directory ex05
+Prototype: unsigned int ft_strlcat(char *dest, char *src, unsigned int size);
+Description: Reproduce strlcat.
+Testing elements: No explicit example output shown in the subject text.

@@ -1,0 +1,7 @@
+Level: C00
+Exercise: ex07
+Project: ft_putnbr
+turn-in directory ex07
+Prototype: void ft_putnbr(int nb);
+Description: Display the number entered as parameter. Handle all int values.
+Testing elements: Example: ft_putnbr(42) → 42.

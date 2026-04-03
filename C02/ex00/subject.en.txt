@@ -1,0 +1,7 @@
+Level: C02
+Exercise: ex00
+Project: ft_strcpy
+turn-in directory ex00
+Prototype: char *ft_strcpy(char *dest, char *src);
+Description: Reproduce strcpy.
+Testing elements: No explicit example output shown in the subject text.

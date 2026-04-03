@@ -1,0 +1,7 @@
+Level: C05
+Exercise: ex07
+Project: ft_find_next_prime
+turn-in directory ex07
+Prototype: int ft_find_next_prime(int nb);
+Description: Return the next prime number greater than or equal to the given number.
+Testing elements: No explicit example output shown in the subject text.

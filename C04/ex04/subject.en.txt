@@ -1,0 +1,7 @@
+Level: C04
+Exercise: ex04
+Project: ft_putnbr_base
+turn-in directory ex04
+Prototype: void ft_putnbr_base(int nbr, char *base);
+Description: Display a number in a given base system; reject invalid base strings.
+Testing elements: Examples mention decimal, binary, hexadecimal, and poneyvif bases.

@@ -1,0 +1,7 @@
+Level: C02
+Exercise: ex06
+Project: ft_str_is_printable
+turn-in directory ex06
+Prototype: int ft_str_is_printable(char *str);
+Description: Return 1 if the string contains only printable characters; 0 otherwise. Empty string returns 1.
+Testing elements: No explicit example output shown in the subject text.

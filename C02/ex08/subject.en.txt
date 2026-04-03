@@ -1,0 +1,7 @@
+Level: C02
+Exercise: ex08
+Project: ft_strlowcase
+turn-in directory ex08
+Prototype: char *ft_strlowcase(char *str);
+Description: Convert every letter to lowercase and return the string.
+Testing elements: No explicit example output shown in the subject text.

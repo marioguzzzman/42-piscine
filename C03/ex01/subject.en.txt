@@ -1,0 +1,7 @@
+Level: C03
+Exercise: ex01
+Project: ft_strncmp
+turn-in directory ex01
+Prototype: int ft_strncmp(char *s1, char *s2, unsigned int n);
+Description: Reproduce strncmp.
+Testing elements: No explicit example output shown in the subject text.

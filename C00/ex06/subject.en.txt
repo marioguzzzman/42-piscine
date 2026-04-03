@@ -1,0 +1,7 @@
+Level: C00
+Exercise: ex06
+Project: ft_print_comb2
+turn-in directory ex06
+Prototype: void ft_print_comb2(void);
+Description: Display all different combinations of 2 digits between 00 and 99, comma separated.
+Testing elements: Example: 00,01,...,98,99.

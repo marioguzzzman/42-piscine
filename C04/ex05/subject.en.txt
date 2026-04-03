@@ -1,0 +1,7 @@
+Level: C04
+Exercise: ex05
+Project: ft_atoi_base
+turn-in directory ex05
+Prototype: int ft_atoi_base(char *str, char *base);
+Description: Convert the initial portion of the string in a given base to int. Invalid arguments return 0.
+Testing elements: Invalid base examples: empty, one character, duplicate chars, or contains +, -, or whitespace.

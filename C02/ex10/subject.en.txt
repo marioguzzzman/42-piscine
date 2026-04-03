@@ -1,0 +1,7 @@
+Level: C02
+Exercise: ex10
+Project: ft_strlcpy
+turn-in directory ex10
+Prototype: unsigned int ft_strlcpy(char *dest, char *src, unsigned int size);
+Description: Reproduce strlcpy.
+Testing elements: No explicit example output shown in the subject text.

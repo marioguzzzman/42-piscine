@@ -1,0 +1,7 @@
+Level: C02
+Exercise: ex04
+Project: ft_str_is_lowercase
+turn-in directory ex04
+Prototype: int ft_str_is_lowercase(char *str);
+Description: Return 1 if the string contains only lowercase letters; 0 otherwise. Empty string returns 1.
+Testing elements: No explicit example output shown in the subject text.

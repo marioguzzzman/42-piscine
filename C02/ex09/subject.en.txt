@@ -1,0 +1,7 @@
+Level: C02
+Exercise: ex09
+Project: ft_strcapitalize
+turn-in directory ex09
+Prototype: char *ft_strcapitalize(char *str);
+Description: Capitalize the first letter of each word and lowercase all other letters. A word is an alphanumeric sequence.
+Testing elements: Example: hi, how are you? 42 words forty-two fifty and one → Hi, How Are You? 42words Forty-Two Fifty And One.

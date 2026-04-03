@@ -1,0 +1,7 @@
+Level: C05
+Exercise: ex06
+Project: ft_is_prime
+turn-in directory ex06
+Prototype: int ft_is_prime(int nb);
+Description: Return 1 if the given number is prime, 0 otherwise. 0 and 1 are not prime.
+Testing elements: No explicit example output shown in the subject text.

@@ -1,0 +1,7 @@
+Level: C01
+Exercise: ex02
+Project: ft_swap
+turn-in directory ex02
+Prototype: void ft_swap(int *a, int *b);
+Description: Swaps the values of two integers using their addresses.
+Testing elements: No explicit example output shown.

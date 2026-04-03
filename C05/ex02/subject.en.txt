@@ -1,0 +1,7 @@
+Level: C05
+Exercise: ex02
+Project: ft_iterative_power
+turn-in directory ex02
+Prototype: int ft_iterative_power(int nb, int power);
+Description: Iterative power. Power < 0 returns 0. 0^0 = 1.
+Testing elements: No explicit example output shown in the subject text.

@@ -1,0 +1,7 @@
+Level: C00
+Exercise: ex08
+Project: ft_print_combn
+turn-in directory ex08
+Prototype: void ft_print_combn(int n);
+Description: Display all different combinations of n numbers (0 ≤ n ≤ 10) in ascending order, comma separated.
+Testing elements: For n=2: 01,02,...,89.

@@ -1,0 +1,7 @@
+Level: C03
+Exercise: ex02
+Project: ft_strcat
+turn-in directory ex02
+Prototype: char *ft_strcat(char *dest, char *src);
+Description: Reproduce strcat.
+Testing elements: No explicit example output shown in the subject text.

@@ -1,0 +1,7 @@
+Level: C00
+Exercise: ex03
+Project: ft_print_numbers
+turn-in directory ex03
+Prototype: void ft_print_numbers(void);
+Description: Display all digits on a single line, ascending order.
+Testing elements: No explicit example output shown.

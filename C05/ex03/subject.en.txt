@@ -1,0 +1,7 @@
+Level: C05
+Exercise: ex03
+Project: ft_recursive_power
+turn-in directory ex03
+Prototype: int ft_recursive_power(int nb, int power);
+Description: Recursive power. Power < 0 returns 0. 0^0 = 1.
+Testing elements: No explicit example output shown in the subject text.

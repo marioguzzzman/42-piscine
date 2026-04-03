@@ -1,0 +1,7 @@
+Level: C00
+Exercise: ex00
+Project: ft_putchar
+turn-in directory ex00
+Prototype: void ft_putchar(char c);
+Description: Write a function that displays the character passed as parameter.
+Testing elements: Use write(1, &c, 1).

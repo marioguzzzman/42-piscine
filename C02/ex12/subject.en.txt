@@ -1,0 +1,7 @@
+Level: C02
+Exercise: ex12
+Project: ft_print_memory
+turn-in directory ex12
+Prototype: void *ft_print_memory(void *addr, unsigned int size);
+Description: Display a memory area in 3 columns: address, hex bytes, printable characters. 16 characters per line.
+Testing elements: The subject includes a full formatted memory-dump example.

@@ -1,0 +1,7 @@
+Level: C04
+Exercise: ex03
+Project: ft_atoi
+turn-in directory ex03
+Prototype: int ft_atoi(char *str);
+Description: Convert the initial portion of the string to an integer representation, handling whitespace and +/- signs.
+Testing elements: Example in the subject: ---1234ab567 → -1234.

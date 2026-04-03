@@ -1,0 +1,7 @@
+Level: C07
+Exercise: ex03
+Project: ft_strjoin
+turn-in directory ex03
+Prototype: char *ft_strjoin(int size, char **strs, char *sep);
+Description: Concatenate all strings in strs separated by sep. Return empty string if size is 0.
+Testing elements: No explicit example output shown in the subject text.

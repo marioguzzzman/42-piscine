@@ -1,0 +1,7 @@
+Level: C02
+Exercise: ex02
+Project: ft_str_is_alpha
+turn-in directory ex02
+Prototype: int ft_str_is_alpha(char *str);
+Description: Return 1 if the string contains only alphabetical characters; 0 otherwise. Empty string returns 1.
+Testing elements: No explicit example output shown in the subject text.

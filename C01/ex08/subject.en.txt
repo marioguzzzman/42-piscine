@@ -1,0 +1,7 @@
+Level: C01
+Exercise: ex08
+Project: ft_sort_int_tab
+turn-in directory ex08
+Prototype: void ft_sort_int_tab(int *tab, int size);
+Description: Sorts an array of integers in ascending order.
+Testing elements: No explicit example output shown.

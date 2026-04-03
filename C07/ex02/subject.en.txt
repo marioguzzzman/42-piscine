@@ -1,0 +1,7 @@
+Level: C07
+Exercise: ex02
+Project: ft_ultimate_range
+turn-in directory ex02
+Prototype: int ft_ultimate_range(int **range, int min, int max);
+Description: Allocate and assign an array with values between min (included) and max (excluded). Return size or -1 on error. Return 0 if min >= max.
+Testing elements: No explicit example output shown in the subject text.

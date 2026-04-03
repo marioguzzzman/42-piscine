@@ -1,0 +1,7 @@
+Level: C01
+Exercise: ex04
+Project: ft_ultimate_div_mod
+turn-in directory ex04
+Prototype: void ft_ultimate_div_mod(int *a, int *b);
+Description: Divides *a by *b, stores result in *a, remainder in *b.
+Testing elements: No explicit example output shown.

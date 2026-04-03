@@ -1,0 +1,7 @@
+Level: C01
+Exercise: ex01
+Project: ft_ultimate_ft
+turn-in directory ex01
+Prototype: void ft_ultimate_ft(int *********nbr);
+Description: Takes a pointer to 10 levels of pointers to int and sets the value to 42.
+Testing elements: No explicit example output shown.

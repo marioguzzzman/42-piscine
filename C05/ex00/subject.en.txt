@@ -1,0 +1,7 @@
+Level: C05
+Exercise: ex00
+Project: ft_iterative_factorial
+turn-in directory ex00
+Prototype: int ft_iterative_factorial(int nb);
+Description: Iterative factorial. Invalid input returns 0. Overflow need not be handled.
+Testing elements: No explicit example output shown in the subject text.

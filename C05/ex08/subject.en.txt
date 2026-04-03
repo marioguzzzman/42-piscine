@@ -1,0 +1,7 @@
+Level: C05
+Exercise: ex08
+Project: ft_ten_queens_puzzle
+turn-in directory ex08
+Prototype: int ft_ten_queens_puzzle(void);
+Description: Display all possible placements of ten queens on a 10x10 board and return the total number of valid solutions.
+Testing elements: The subject shows example placements such as 0257948136 and a total solution count.

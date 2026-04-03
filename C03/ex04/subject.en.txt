@@ -1,0 +1,7 @@
+Level: C03
+Exercise: ex04
+Project: ft_strstr
+turn-in directory ex04
+Prototype: char *ft_strstr(char *str, char *to_find);
+Description: Reproduce strstr.
+Testing elements: No explicit example output shown in the subject text.
