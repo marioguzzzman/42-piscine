@@ -1,0 +1,7 @@
+Level: C13
+Exercise: ex05
+Project: btree_search_item
+Turn-in directory: ex05/
+Prototype: See ftlist.h / ftbtree.h for structure
+Description: Binary tree / linked list operation btree_search_item
+Testing elements: Standard traversal and manipulation tests

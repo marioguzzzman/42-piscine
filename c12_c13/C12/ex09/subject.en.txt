@@ -1,0 +1,7 @@
+Level: C12
+Exercise: ex09
+Project: ft_list_foreach
+Turn-in directory: ex09/
+Prototype: See ftlist.h / ftbtree.h for structure
+Description: Binary tree / linked list operation ft_list_foreach
+Testing elements: Standard traversal and manipulation tests

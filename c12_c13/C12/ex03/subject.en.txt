@@ -1,0 +1,7 @@
+Level: C12
+Exercise: ex03
+Project: ft_list_last
+Turn-in directory: ex03/
+Prototype: See ftlist.h / ftbtree.h for structure
+Description: Binary tree / linked list operation ft_list_last
+Testing elements: Standard traversal and manipulation tests

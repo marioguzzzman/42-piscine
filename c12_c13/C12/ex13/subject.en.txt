@@ -1,0 +1,7 @@
+Level: C12
+Exercise: ex13
+Project: ft_list_merge
+Turn-in directory: ex13/
+Prototype: See ftlist.h / ftbtree.h for structure
+Description: Binary tree / linked list operation ft_list_merge
+Testing elements: Standard traversal and manipulation tests

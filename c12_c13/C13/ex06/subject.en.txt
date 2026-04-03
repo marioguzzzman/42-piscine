@@ -1,0 +1,7 @@
+Level: C13
+Exercise: ex06
+Project: btree_level_count
+Turn-in directory: ex06/
+Prototype: See ftlist.h / ftbtree.h for structure
+Description: Binary tree / linked list operation btree_level_count
+Testing elements: Standard traversal and manipulation tests
